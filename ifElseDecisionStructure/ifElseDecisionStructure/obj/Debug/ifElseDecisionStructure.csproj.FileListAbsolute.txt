@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseDecisionStructure\ifElseDecisionStructure\bin\Debug\ifElseDecisionStructure.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseDecisionStructure\ifElseDecisionStructure\bin\Debug\ifElseDecisionStructure.exe
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseDecisionStructure\ifElseDecisionStructure\bin\Debug\ifElseDecisionStructure.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseDecisionStructure\ifElseDecisionStructure\obj\Debug\ifElseDecisionStructure.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseDecisionStructure\ifElseDecisionStructure\obj\Debug\ifElseDecisionStructure.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseDecisionStructure\ifElseDecisionStructure\obj\Debug\ifElseDecisionStructure.exe
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseDecisionStructure\ifElseDecisionStructure\obj\Debug\ifElseDecisionStructure.pdb
