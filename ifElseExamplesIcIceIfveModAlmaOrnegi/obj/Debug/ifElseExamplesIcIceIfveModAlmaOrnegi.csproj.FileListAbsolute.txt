@@ -1,6 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesIcIceIfveModAlmaOrnegi\obj\Debug\ifElseExamplesIcIceIfveModAlmaOrnegi.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesIcIceIfveModAlmaOrnegi\bin\Debug\ifElseExamplesIcIceIfveModAlmaOrnegi.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesIcIceIfveModAlmaOrnegi\bin\Debug\ifElseExamplesIcIceIfveModAlmaOrnegi.exe
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesIcIceIfveModAlmaOrnegi\bin\Debug\ifElseExamplesIcIceIfveModAlmaOrnegi.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesIcIceIfveModAlmaOrnegi\obj\Debug\ifElseExamplesIcIceIfveModAlmaOrnegi.exe
-E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesIcIceIfveModAlmaOrnegi\obj\Debug\ifElseExamplesIcIceIfveModAlmaOrnegi.pdb
