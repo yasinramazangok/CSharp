@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma\bin\Debug\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma\bin\Debug\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma.exe
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma\bin\Debug\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma\obj\Debug\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma\obj\Debug\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma\obj\Debug\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma.exe
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma\obj\Debug\whileLoopBirIleGirilenSayıArasındakiSayılarıYazdırma.pdb
