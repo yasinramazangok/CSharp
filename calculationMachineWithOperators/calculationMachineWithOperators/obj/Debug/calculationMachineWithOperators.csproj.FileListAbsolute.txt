@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\calculationMachineWithOperators\calculationMachineWithOperators\bin\Debug\calculationMachineWithOperators.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\calculationMachineWithOperators\calculationMachineWithOperators\bin\Debug\calculationMachineWithOperators.exe
+E:\CS LANGUAGES\C#\MyC#Codes\calculationMachineWithOperators\calculationMachineWithOperators\bin\Debug\calculationMachineWithOperators.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\calculationMachineWithOperators\calculationMachineWithOperators\obj\Debug\calculationMachineWithOperators.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\calculationMachineWithOperators\calculationMachineWithOperators\obj\Debug\calculationMachineWithOperators.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\calculationMachineWithOperators\calculationMachineWithOperators\obj\Debug\calculationMachineWithOperators.exe
+E:\CS LANGUAGES\C#\MyC#Codes\calculationMachineWithOperators\calculationMachineWithOperators\obj\Debug\calculationMachineWithOperators.pdb

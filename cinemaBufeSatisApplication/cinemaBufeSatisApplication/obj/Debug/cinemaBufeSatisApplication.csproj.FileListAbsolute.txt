@@ -1,0 +1,21 @@
+E:\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.csproj.AssemblyReference.cache
+E:\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.Form1.resources
+E:\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.Properties.Resources.resources
+E:\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.csproj.GenerateResource.cache
+E:\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.csproj.CoreCompileInputs.cache
+E:\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\cinemaBufeSatisApplication\cinemaBufeSatisApplication\bin\Debug\cinemaBufeSatisApplication.exe.config
+E:\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\cinemaBufeSatisApplication\cinemaBufeSatisApplication\bin\Debug\cinemaBufeSatisApplication.exe
+E:\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\cinemaBufeSatisApplication\cinemaBufeSatisApplication\bin\Debug\cinemaBufeSatisApplication.pdb
+E:\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.exe
+E:\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.pdb
+E:\CS LANGUAGES\C#\C#\cinemaBufeSatisApplication\cinemaBufeSatisApplication\bin\Debug\cinemaBufeSatisApplication.exe.config
+E:\CS LANGUAGES\C#\C#\cinemaBufeSatisApplication\cinemaBufeSatisApplication\bin\Debug\cinemaBufeSatisApplication.exe
+E:\CS LANGUAGES\C#\C#\cinemaBufeSatisApplication\cinemaBufeSatisApplication\bin\Debug\cinemaBufeSatisApplication.pdb
+E:\CS LANGUAGES\C#\C#\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\C#\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.csproj.SuggestedBindingRedirects.cache
+E:\CS LANGUAGES\C#\C#\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.Form1.resources
+E:\CS LANGUAGES\C#\C#\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.Properties.Resources.resources
+E:\CS LANGUAGES\C#\C#\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.csproj.GenerateResource.cache
+E:\CS LANGUAGES\C#\C#\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\C#\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.exe
+E:\CS LANGUAGES\C#\C#\cinemaBufeSatisApplication\cinemaBufeSatisApplication\obj\Debug\cinemaBufeSatisApplication.pdb

@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesIllereGoreGeziRehberi\bin\Debug\switchCaseExamplesIllereGoreGeziRehberi.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesIllereGoreGeziRehberi\bin\Debug\switchCaseExamplesIllereGoreGeziRehberi.exe
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesIllereGoreGeziRehberi\bin\Debug\switchCaseExamplesIllereGoreGeziRehberi.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesIllereGoreGeziRehberi\obj\Debug\switchCaseExamplesIllereGoreGeziRehberi.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesIllereGoreGeziRehberi\obj\Debug\switchCaseExamplesIllereGoreGeziRehberi.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesIllereGoreGeziRehberi\obj\Debug\switchCaseExamplesIllereGoreGeziRehberi.exe
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesIllereGoreGeziRehberi\obj\Debug\switchCaseExamplesIllereGoreGeziRehberi.pdb

@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\bilgisayarınBelirledigiSayıyıTahminEtme\bin\Debug\bilgisayarınBelirledigiSayıyıTahminEtme.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\bilgisayarınBelirledigiSayıyıTahminEtme\bin\Debug\bilgisayarınBelirledigiSayıyıTahminEtme.exe
+E:\CS LANGUAGES\C#\MyC#Codes\bilgisayarınBelirledigiSayıyıTahminEtme\bin\Debug\bilgisayarınBelirledigiSayıyıTahminEtme.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\bilgisayarınBelirledigiSayıyıTahminEtme\obj\Debug\bilgisayarınBelirledigiSayıyıTahminEtme.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\bilgisayarınBelirledigiSayıyıTahminEtme\obj\Debug\bilgisayarınBelirledigiSayıyıTahminEtme.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\bilgisayarınBelirledigiSayıyıTahminEtme\obj\Debug\bilgisayarınBelirledigiSayıyıTahminEtme.exe
+E:\CS LANGUAGES\C#\MyC#Codes\bilgisayarınBelirledigiSayıyıTahminEtme\obj\Debug\bilgisayarınBelirledigiSayıyıTahminEtme.pdb

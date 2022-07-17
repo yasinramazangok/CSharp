@@ -1,0 +1,15 @@
+E:\CS LANGUAGES\C#\MyC#Codes\arrays\bin\Debug\arrays.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\arrays\bin\Debug\arrays.exe
+E:\CS LANGUAGES\C#\MyC#Codes\arrays\bin\Debug\arrays.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\arrays\obj\Debug\arrays.exe
+E:\CS LANGUAGES\C#\MyC#Codes\arrays\obj\Debug\arrays.pdb
+E:\CS LANGUAGES\C#\C#\arrays\bin\Debug\arrays.exe.config
+E:\CS LANGUAGES\C#\C#\arrays\bin\Debug\arrays.exe
+E:\CS LANGUAGES\C#\C#\arrays\bin\Debug\arrays.pdb
+E:\CS LANGUAGES\C#\C#\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\C#\arrays\obj\Debug\arrays.csproj.SuggestedBindingRedirects.cache
+E:\CS LANGUAGES\C#\C#\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\C#\arrays\obj\Debug\arrays.exe
+E:\CS LANGUAGES\C#\C#\arrays\obj\Debug\arrays.pdb

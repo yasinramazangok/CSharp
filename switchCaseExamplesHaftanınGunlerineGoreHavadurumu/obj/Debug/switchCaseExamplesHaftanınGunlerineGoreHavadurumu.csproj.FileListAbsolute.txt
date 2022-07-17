@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesHaftanınGunlerineGoreHavadurumu\bin\Debug\switchCaseExamplesHaftanınGunlerineGoreHavadurumu.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesHaftanınGunlerineGoreHavadurumu\bin\Debug\switchCaseExamplesHaftanınGunlerineGoreHavadurumu.exe
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesHaftanınGunlerineGoreHavadurumu\bin\Debug\switchCaseExamplesHaftanınGunlerineGoreHavadurumu.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesHaftanınGunlerineGoreHavadurumu\obj\Debug\switchCaseExamplesHaftanınGunlerineGoreHavadurumu.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesHaftanınGunlerineGoreHavadurumu\obj\Debug\switchCaseExamplesHaftanınGunlerineGoreHavadurumu.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesHaftanınGunlerineGoreHavadurumu\obj\Debug\switchCaseExamplesHaftanınGunlerineGoreHavadurumu.exe
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseExamplesHaftanınGunlerineGoreHavadurumu\obj\Debug\switchCaseExamplesHaftanınGunlerineGoreHavadurumu.pdb

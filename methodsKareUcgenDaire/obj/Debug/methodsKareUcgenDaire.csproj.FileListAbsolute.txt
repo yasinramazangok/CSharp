@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareUcgenDaire\obj\Debug\methodsKareUcgenDaire.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareUcgenDaire\obj\Debug\methodsKareUcgenDaire.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareUcgenDaire\bin\Debug\methodsKareUcgenDaire.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareUcgenDaire\bin\Debug\methodsKareUcgenDaire.exe
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareUcgenDaire\bin\Debug\methodsKareUcgenDaire.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareUcgenDaire\obj\Debug\methodsKareUcgenDaire.exe
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareUcgenDaire\obj\Debug\methodsKareUcgenDaire.pdb

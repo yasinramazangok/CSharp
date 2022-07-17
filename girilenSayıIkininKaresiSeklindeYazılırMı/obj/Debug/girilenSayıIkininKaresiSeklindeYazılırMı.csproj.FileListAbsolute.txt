@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayıIkininKaresiSeklindeYazılırMı\bin\Debug\girilenSayıIkininKaresiSeklindeYazılırMı.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayıIkininKaresiSeklindeYazılırMı\bin\Debug\girilenSayıIkininKaresiSeklindeYazılırMı.exe
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayıIkininKaresiSeklindeYazılırMı\bin\Debug\girilenSayıIkininKaresiSeklindeYazılırMı.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayıIkininKaresiSeklindeYazılırMı\obj\Debug\girilenSayıIkininKaresiSeklindeYazılırMı.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayıIkininKaresiSeklindeYazılırMı\obj\Debug\girilenSayıIkininKaresiSeklindeYazılırMı.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayıIkininKaresiSeklindeYazılırMı\obj\Debug\girilenSayıIkininKaresiSeklindeYazılırMı.exe
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayıIkininKaresiSeklindeYazılırMı\obj\Debug\girilenSayıIkininKaresiSeklindeYazılırMı.pdb

@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenMetniTerstenYazdırma\bin\Debug\arraysGirilenMetniTerstenYazdırma.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenMetniTerstenYazdırma\bin\Debug\arraysGirilenMetniTerstenYazdırma.exe
+E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenMetniTerstenYazdırma\bin\Debug\arraysGirilenMetniTerstenYazdırma.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenMetniTerstenYazdırma\obj\Debug\arraysGirilenMetniTerstenYazdırma.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenMetniTerstenYazdırma\obj\Debug\arraysGirilenMetniTerstenYazdırma.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenMetniTerstenYazdırma\obj\Debug\arraysGirilenMetniTerstenYazdırma.exe
+E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenMetniTerstenYazdırma\obj\Debug\arraysGirilenMetniTerstenYazdırma.pdb

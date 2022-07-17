@@ -1,0 +1,11 @@
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelRadiobuttonRelation\labelRadiobuttonRelation\bin\Debug\labelRadiobuttonRelation.exe.config
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelRadiobuttonRelation\labelRadiobuttonRelation\bin\Debug\labelRadiobuttonRelation.exe
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelRadiobuttonRelation\labelRadiobuttonRelation\bin\Debug\labelRadiobuttonRelation.pdb
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelRadiobuttonRelation\labelRadiobuttonRelation\obj\Debug\labelRadiobuttonRelation.csproj.AssemblyReference.cache
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelRadiobuttonRelation\labelRadiobuttonRelation\obj\Debug\labelRadiobuttonRelation.Form1.resources
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelRadiobuttonRelation\labelRadiobuttonRelation\obj\Debug\labelRadiobuttonRelation.Properties.Resources.resources
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelRadiobuttonRelation\labelRadiobuttonRelation\obj\Debug\labelRadiobuttonRelation.csproj.GenerateResource.cache
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelRadiobuttonRelation\labelRadiobuttonRelation\obj\Debug\labelRadiobuttonRelation.csproj.CoreCompileInputs.cache
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelRadiobuttonRelation\labelRadiobuttonRelation\obj\Debug\labelRadiobuttonRelation.exe
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelRadiobuttonRelation\labelRadiobuttonRelation\obj\Debug\labelRadiobuttonRelation.pdb
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelRadiobuttonRelation\labelRadiobuttonRelation\obj\Debug\labelRadiobuttonRelation.Form2.resources

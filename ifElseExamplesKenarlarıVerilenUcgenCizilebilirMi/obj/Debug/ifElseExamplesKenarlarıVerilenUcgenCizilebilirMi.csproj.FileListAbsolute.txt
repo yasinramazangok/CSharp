@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi\bin\Debug\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi\bin\Debug\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi.exe
+E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi\bin\Debug\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi\obj\Debug\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi\obj\Debug\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi\obj\Debug\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi.exe
+E:\CS LANGUAGES\C#\MyC#Codes\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi\obj\Debug\ifElseExamplesKenarlarıVerilenUcgenCizilebilirMi.pdb

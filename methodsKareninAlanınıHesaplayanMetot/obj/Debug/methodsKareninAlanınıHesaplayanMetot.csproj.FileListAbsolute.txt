@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareninAlanınıHesaplayanMetot\bin\Debug\methodsKareninAlanınıHesaplayanMetot.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareninAlanınıHesaplayanMetot\bin\Debug\methodsKareninAlanınıHesaplayanMetot.exe
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareninAlanınıHesaplayanMetot\bin\Debug\methodsKareninAlanınıHesaplayanMetot.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareninAlanınıHesaplayanMetot\obj\Debug\methodsKareninAlanınıHesaplayanMetot.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareninAlanınıHesaplayanMetot\obj\Debug\methodsKareninAlanınıHesaplayanMetot.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareninAlanınıHesaplayanMetot\obj\Debug\methodsKareninAlanınıHesaplayanMetot.exe
+E:\CS LANGUAGES\C#\MyC#Codes\methodsKareninAlanınıHesaplayanMetot\obj\Debug\methodsKareninAlanınıHesaplayanMetot.pdb

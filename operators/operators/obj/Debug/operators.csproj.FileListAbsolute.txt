@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\operators\operators\bin\Debug\operators.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\operators\operators\bin\Debug\operators.exe
+E:\CS LANGUAGES\C#\MyC#Codes\operators\operators\bin\Debug\operators.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\operators\operators\obj\Debug\operators.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\operators\operators\obj\Debug\operators.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\operators\operators\obj\Debug\operators.exe
+E:\CS LANGUAGES\C#\MyC#Codes\operators\operators\obj\Debug\operators.pdb

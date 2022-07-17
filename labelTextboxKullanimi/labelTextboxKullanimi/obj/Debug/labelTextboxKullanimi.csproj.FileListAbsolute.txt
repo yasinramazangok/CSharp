@@ -1,0 +1,13 @@
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\bin\Debug\labelTextboxKullanimi.exe.config
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\bin\Debug\labelTextboxKullanimi.exe
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\bin\Debug\labelTextboxKullanimi.pdb
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\bin\Debug\ccp-Cakm-IN\labelTextboxKullanimi.resources.dll
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\obj\Debug\labelTextboxKullanimi.csproj.AssemblyReference.cache
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\obj\Debug\labelTextboxKullanimi.Form1.resources
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\obj\Debug\labelTextboxKullanimi.Properties.Resources.resources
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\obj\Debug\labelTextboxKullanimi.Form1.ccp-Cakm-IN.resources
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\obj\Debug\labelTextboxKullanimi.csproj.GenerateResource.cache
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\obj\Debug\labelTextboxKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\obj\Debug\ccp-Cakm-IN\labelTextboxKullanimi.resources.dll
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\obj\Debug\labelTextboxKullanimi.exe
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\labelTextboxKullanimi\labelTextboxKullanimi\obj\Debug\labelTextboxKullanimi.pdb

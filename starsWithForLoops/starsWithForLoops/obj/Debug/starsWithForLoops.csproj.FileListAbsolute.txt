@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\starsWithForLoops\starsWithForLoops\bin\Debug\starsWithForLoops.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\starsWithForLoops\starsWithForLoops\bin\Debug\starsWithForLoops.exe
+E:\CS LANGUAGES\C#\MyC#Codes\starsWithForLoops\starsWithForLoops\bin\Debug\starsWithForLoops.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\starsWithForLoops\starsWithForLoops\obj\Debug\starsWithForLoops.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\starsWithForLoops\starsWithForLoops\obj\Debug\starsWithForLoops.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\starsWithForLoops\starsWithForLoops\obj\Debug\starsWithForLoops.exe
+E:\CS LANGUAGES\C#\MyC#Codes\starsWithForLoops\starsWithForLoops\obj\Debug\starsWithForLoops.pdb

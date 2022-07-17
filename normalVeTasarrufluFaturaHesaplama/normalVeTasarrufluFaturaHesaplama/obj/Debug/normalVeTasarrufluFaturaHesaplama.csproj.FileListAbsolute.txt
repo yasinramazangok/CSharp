@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\normalVeTasarrufluFaturaHesaplama\normalVeTasarrufluFaturaHesaplama\bin\Debug\normalVeTasarrufluFaturaHesaplama.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\normalVeTasarrufluFaturaHesaplama\normalVeTasarrufluFaturaHesaplama\bin\Debug\normalVeTasarrufluFaturaHesaplama.exe
+E:\CS LANGUAGES\C#\MyC#Codes\normalVeTasarrufluFaturaHesaplama\normalVeTasarrufluFaturaHesaplama\bin\Debug\normalVeTasarrufluFaturaHesaplama.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\normalVeTasarrufluFaturaHesaplama\normalVeTasarrufluFaturaHesaplama\obj\Debug\normalVeTasarrufluFaturaHesaplama.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\normalVeTasarrufluFaturaHesaplama\normalVeTasarrufluFaturaHesaplama\obj\Debug\normalVeTasarrufluFaturaHesaplama.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\normalVeTasarrufluFaturaHesaplama\normalVeTasarrufluFaturaHesaplama\obj\Debug\normalVeTasarrufluFaturaHesaplama.exe
+E:\CS LANGUAGES\C#\MyC#Codes\normalVeTasarrufluFaturaHesaplama\normalVeTasarrufluFaturaHesaplama\obj\Debug\normalVeTasarrufluFaturaHesaplama.pdb

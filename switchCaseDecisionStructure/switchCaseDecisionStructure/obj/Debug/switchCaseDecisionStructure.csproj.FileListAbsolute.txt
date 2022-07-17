@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseDecisionStructure\switchCaseDecisionStructure\bin\Debug\switchCaseDecisionStructure.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseDecisionStructure\switchCaseDecisionStructure\bin\Debug\switchCaseDecisionStructure.exe
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseDecisionStructure\switchCaseDecisionStructure\bin\Debug\switchCaseDecisionStructure.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseDecisionStructure\switchCaseDecisionStructure\obj\Debug\switchCaseDecisionStructure.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseDecisionStructure\switchCaseDecisionStructure\obj\Debug\switchCaseDecisionStructure.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseDecisionStructure\switchCaseDecisionStructure\obj\Debug\switchCaseDecisionStructure.exe
+E:\CS LANGUAGES\C#\MyC#Codes\switchCaseDecisionStructure\switchCaseDecisionStructure\obj\Debug\switchCaseDecisionStructure.pdb

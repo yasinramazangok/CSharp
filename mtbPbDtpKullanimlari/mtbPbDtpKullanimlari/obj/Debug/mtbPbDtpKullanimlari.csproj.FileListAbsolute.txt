@@ -1,0 +1,10 @@
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\mtbPbDtpKullanimlari\mtbPbDtpKullanimlari\bin\Debug\mtbPbDtpKullanimlari.exe.config
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\mtbPbDtpKullanimlari\mtbPbDtpKullanimlari\bin\Debug\mtbPbDtpKullanimlari.exe
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\mtbPbDtpKullanimlari\mtbPbDtpKullanimlari\bin\Debug\mtbPbDtpKullanimlari.pdb
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\mtbPbDtpKullanimlari\mtbPbDtpKullanimlari\obj\Debug\mtbPbDtpKullanimlari.csproj.AssemblyReference.cache
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\mtbPbDtpKullanimlari\mtbPbDtpKullanimlari\obj\Debug\mtbPbDtpKullanimlari.Form1.resources
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\mtbPbDtpKullanimlari\mtbPbDtpKullanimlari\obj\Debug\mtbPbDtpKullanimlari.Properties.Resources.resources
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\mtbPbDtpKullanimlari\mtbPbDtpKullanimlari\obj\Debug\mtbPbDtpKullanimlari.csproj.GenerateResource.cache
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\mtbPbDtpKullanimlari\mtbPbDtpKullanimlari\obj\Debug\mtbPbDtpKullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\mtbPbDtpKullanimlari\mtbPbDtpKullanimlari\obj\Debug\mtbPbDtpKullanimlari.exe
+C:\Users\YRG\OneDrive\Masaüstü\Uygulama Geliştirerek C# Öğrenin\Udemy Çalışmaları\mtbPbDtpKullanimlari\mtbPbDtpKullanimlari\obj\Debug\mtbPbDtpKullanimlari.pdb

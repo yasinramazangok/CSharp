@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\forLoopFaktoriyelHesaplayanProgram\obj\Debug\forLoopFaktoriyelHesaplayanProgram.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\forLoopFaktoriyelHesaplayanProgram\obj\Debug\forLoopFaktoriyelHesaplayanProgram.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\forLoopFaktoriyelHesaplayanProgram\bin\Debug\forLoopFaktoriyelHesaplayanProgram.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\forLoopFaktoriyelHesaplayanProgram\bin\Debug\forLoopFaktoriyelHesaplayanProgram.exe
+E:\CS LANGUAGES\C#\MyC#Codes\forLoopFaktoriyelHesaplayanProgram\bin\Debug\forLoopFaktoriyelHesaplayanProgram.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\forLoopFaktoriyelHesaplayanProgram\obj\Debug\forLoopFaktoriyelHesaplayanProgram.exe
+E:\CS LANGUAGES\C#\MyC#Codes\forLoopFaktoriyelHesaplayanProgram\obj\Debug\forLoopFaktoriyelHesaplayanProgram.pdb

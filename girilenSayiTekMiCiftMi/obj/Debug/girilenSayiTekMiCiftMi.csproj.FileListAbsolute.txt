@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiTekMiCiftMi\bin\Debug\girilenSayiTekMiCiftMi.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiTekMiCiftMi\bin\Debug\girilenSayiTekMiCiftMi.exe
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiTekMiCiftMi\bin\Debug\girilenSayiTekMiCiftMi.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiTekMiCiftMi\obj\Debug\girilenSayiTekMiCiftMi.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiTekMiCiftMi\obj\Debug\girilenSayiTekMiCiftMi.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiTekMiCiftMi\obj\Debug\girilenSayiTekMiCiftMi.exe
+E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiTekMiCiftMi\obj\Debug\girilenSayiTekMiCiftMi.pdb

@@ -1,0 +1,7 @@
+E:\CS LANGUAGES\C#\MyC#Codes\methodsVeMetotTanımlama\obj\Debug\methodsVeMetotTanımlama.csproj.AssemblyReference.cache
+E:\CS LANGUAGES\C#\MyC#Codes\methodsVeMetotTanımlama\obj\Debug\methodsVeMetotTanımlama.csproj.CoreCompileInputs.cache
+E:\CS LANGUAGES\C#\MyC#Codes\methodsVeMetotTanımlama\bin\Debug\methodsVeMetotTanımlama.exe.config
+E:\CS LANGUAGES\C#\MyC#Codes\methodsVeMetotTanımlama\bin\Debug\methodsVeMetotTanımlama.exe
+E:\CS LANGUAGES\C#\MyC#Codes\methodsVeMetotTanımlama\bin\Debug\methodsVeMetotTanımlama.pdb
+E:\CS LANGUAGES\C#\MyC#Codes\methodsVeMetotTanımlama\obj\Debug\methodsVeMetotTanımlama.exe
+E:\CS LANGUAGES\C#\MyC#Codes\methodsVeMetotTanımlama\obj\Debug\methodsVeMetotTanımlama.pdb
