@@ -1,6 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\arraysDiziyeRastgeleSayılarAtama\bin\Debug\arraysDiziyeRastgeleSayılarAtama.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\arraysDiziyeRastgeleSayılarAtama\bin\Debug\arraysDiziyeRastgeleSayılarAtama.exe
-E:\CS LANGUAGES\C#\MyC#Codes\arraysDiziyeRastgeleSayılarAtama\bin\Debug\arraysDiziyeRastgeleSayılarAtama.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\arraysDiziyeRastgeleSayılarAtama\obj\Debug\arraysDiziyeRastgeleSayılarAtama.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\arraysDiziyeRastgeleSayılarAtama\obj\Debug\arraysDiziyeRastgeleSayılarAtama.exe
-E:\CS LANGUAGES\C#\MyC#Codes\arraysDiziyeRastgeleSayılarAtama\obj\Debug\arraysDiziyeRastgeleSayılarAtama.pdb

@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\arraysEnKucukVeEnBuyukElemanıBulma\bin\Debug\arraysEnKucukVeEnBuyukElemanıBulma.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\arraysEnKucukVeEnBuyukElemanıBulma\bin\Debug\arraysEnKucukVeEnBuyukElemanıBulma.exe
-E:\CS LANGUAGES\C#\MyC#Codes\arraysEnKucukVeEnBuyukElemanıBulma\bin\Debug\arraysEnKucukVeEnBuyukElemanıBulma.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\arraysEnKucukVeEnBuyukElemanıBulma\obj\Debug\arraysEnKucukVeEnBuyukElemanıBulma.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\arraysEnKucukVeEnBuyukElemanıBulma\obj\Debug\arraysEnKucukVeEnBuyukElemanıBulma.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\arraysEnKucukVeEnBuyukElemanıBulma\obj\Debug\arraysEnKucukVeEnBuyukElemanıBulma.exe
-E:\CS LANGUAGES\C#\MyC#Codes\arraysEnKucukVeEnBuyukElemanıBulma\obj\Debug\arraysEnKucukVeEnBuyukElemanıBulma.pdb

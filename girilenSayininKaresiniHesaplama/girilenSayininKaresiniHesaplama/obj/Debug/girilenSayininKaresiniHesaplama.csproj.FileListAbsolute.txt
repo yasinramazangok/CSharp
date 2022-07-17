@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayininKaresiniHesaplama\girilenSayininKaresiniHesaplama\bin\Debug\girilenSayininKaresiniHesaplama.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayininKaresiniHesaplama\girilenSayininKaresiniHesaplama\bin\Debug\girilenSayininKaresiniHesaplama.exe
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayininKaresiniHesaplama\girilenSayininKaresiniHesaplama\bin\Debug\girilenSayininKaresiniHesaplama.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayininKaresiniHesaplama\girilenSayininKaresiniHesaplama\obj\Debug\girilenSayininKaresiniHesaplama.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayininKaresiniHesaplama\girilenSayininKaresiniHesaplama\obj\Debug\girilenSayininKaresiniHesaplama.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayininKaresiniHesaplama\girilenSayininKaresiniHesaplama\obj\Debug\girilenSayininKaresiniHesaplama.exe
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayininKaresiniHesaplama\girilenSayininKaresiniHesaplama\obj\Debug\girilenSayininKaresiniHesaplama.pdb

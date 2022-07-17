@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopUstHesaplayanProgram\bin\Debug\forLoopUstHesaplayanProgram.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopUstHesaplayanProgram\bin\Debug\forLoopUstHesaplayanProgram.exe
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopUstHesaplayanProgram\bin\Debug\forLoopUstHesaplayanProgram.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopUstHesaplayanProgram\obj\Debug\forLoopUstHesaplayanProgram.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopUstHesaplayanProgram\obj\Debug\forLoopUstHesaplayanProgram.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopUstHesaplayanProgram\obj\Debug\forLoopUstHesaplayanProgram.exe
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopUstHesaplayanProgram\obj\Debug\forLoopUstHesaplayanProgram.pdb

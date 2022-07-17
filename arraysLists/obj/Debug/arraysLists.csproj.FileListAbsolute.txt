@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\arraysLists\bin\Debug\arraysLists.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\arraysLists\bin\Debug\arraysLists.exe
-E:\CS LANGUAGES\C#\MyC#Codes\arraysLists\bin\Debug\arraysLists.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\arraysLists\obj\Debug\arraysLists.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\arraysLists\obj\Debug\arraysLists.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\arraysLists\obj\Debug\arraysLists.exe
-E:\CS LANGUAGES\C#\MyC#Codes\arraysLists\obj\Debug\arraysLists.pdb

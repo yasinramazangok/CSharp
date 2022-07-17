@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma\bin\Debug\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma\bin\Debug\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma.exe
-E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma\bin\Debug\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma\obj\Debug\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma\obj\Debug\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma\obj\Debug\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma.exe
-E:\CS LANGUAGES\C#\MyC#Codes\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma\obj\Debug\arraysGirilenKelimeyiHarfHarfAltAltaYazdırma.pdb

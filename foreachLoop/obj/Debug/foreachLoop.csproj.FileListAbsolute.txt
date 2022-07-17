@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\foreachLoop\bin\Debug\foreachLoop.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\foreachLoop\bin\Debug\foreachLoop.exe
-E:\CS LANGUAGES\C#\MyC#Codes\foreachLoop\bin\Debug\foreachLoop.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\foreachLoop\obj\Debug\foreachLoop.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\foreachLoop\obj\Debug\foreachLoop.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\foreachLoop\obj\Debug\foreachLoop.exe
-E:\CS LANGUAGES\C#\MyC#Codes\foreachLoop\obj\Debug\foreachLoop.pdb

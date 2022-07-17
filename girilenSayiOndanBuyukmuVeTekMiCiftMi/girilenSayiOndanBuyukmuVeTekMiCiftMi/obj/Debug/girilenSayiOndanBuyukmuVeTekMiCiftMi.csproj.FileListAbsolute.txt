@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiOndanBuyukmuVeTekMiCiftMi\girilenSayiOndanBuyukmuVeTekMiCiftMi\bin\Debug\girilenSayiOndanBuyukmuVeTekMiCiftMi.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiOndanBuyukmuVeTekMiCiftMi\girilenSayiOndanBuyukmuVeTekMiCiftMi\bin\Debug\girilenSayiOndanBuyukmuVeTekMiCiftMi.exe
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiOndanBuyukmuVeTekMiCiftMi\girilenSayiOndanBuyukmuVeTekMiCiftMi\bin\Debug\girilenSayiOndanBuyukmuVeTekMiCiftMi.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiOndanBuyukmuVeTekMiCiftMi\girilenSayiOndanBuyukmuVeTekMiCiftMi\obj\Debug\girilenSayiOndanBuyukmuVeTekMiCiftMi.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiOndanBuyukmuVeTekMiCiftMi\girilenSayiOndanBuyukmuVeTekMiCiftMi\obj\Debug\girilenSayiOndanBuyukmuVeTekMiCiftMi.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiOndanBuyukmuVeTekMiCiftMi\girilenSayiOndanBuyukmuVeTekMiCiftMi\obj\Debug\girilenSayiOndanBuyukmuVeTekMiCiftMi.exe
-E:\CS LANGUAGES\C#\MyC#Codes\girilenSayiOndanBuyukmuVeTekMiCiftMi\girilenSayiOndanBuyukmuVeTekMiCiftMi\obj\Debug\girilenSayiOndanBuyukmuVeTekMiCiftMi.pdb

@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\girilenUcSayınınEnKucugunuBulma\bin\Debug\girilenUcSayınınEnKucugunuBulma.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\girilenUcSayınınEnKucugunuBulma\bin\Debug\girilenUcSayınınEnKucugunuBulma.exe
-E:\CS LANGUAGES\C#\MyC#Codes\girilenUcSayınınEnKucugunuBulma\bin\Debug\girilenUcSayınınEnKucugunuBulma.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\girilenUcSayınınEnKucugunuBulma\obj\Debug\girilenUcSayınınEnKucugunuBulma.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\girilenUcSayınınEnKucugunuBulma\obj\Debug\girilenUcSayınınEnKucugunuBulma.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\girilenUcSayınınEnKucugunuBulma\obj\Debug\girilenUcSayınınEnKucugunuBulma.exe
-E:\CS LANGUAGES\C#\MyC#Codes\girilenUcSayınınEnKucugunuBulma\obj\Debug\girilenUcSayınınEnKucugunuBulma.pdb

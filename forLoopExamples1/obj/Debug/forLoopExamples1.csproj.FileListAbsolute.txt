@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopExamples1\bin\Debug\forLoopExamples1.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopExamples1\bin\Debug\forLoopExamples1.exe
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopExamples1\bin\Debug\forLoopExamples1.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopExamples1\obj\Debug\forLoopExamples1.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopExamples1\obj\Debug\forLoopExamples1.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopExamples1\obj\Debug\forLoopExamples1.exe
-E:\CS LANGUAGES\C#\MyC#Codes\forLoopExamples1\obj\Debug\forLoopExamples1.pdb

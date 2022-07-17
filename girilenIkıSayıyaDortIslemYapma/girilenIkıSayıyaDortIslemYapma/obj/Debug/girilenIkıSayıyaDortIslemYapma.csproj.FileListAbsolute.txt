@@ -1,6 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\girilenIkıSayıyaDortIslemYapma\girilenIkıSayıyaDortIslemYapma\bin\Debug\girilenIkıSayıyaDortIslemYapma.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\girilenIkıSayıyaDortIslemYapma\girilenIkıSayıyaDortIslemYapma\bin\Debug\girilenIkıSayıyaDortIslemYapma.exe
-E:\CS LANGUAGES\C#\MyC#Codes\girilenIkıSayıyaDortIslemYapma\girilenIkıSayıyaDortIslemYapma\bin\Debug\girilenIkıSayıyaDortIslemYapma.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\girilenIkıSayıyaDortIslemYapma\girilenIkıSayıyaDortIslemYapma\obj\Debug\girilenIkıSayıyaDortIslemYapma.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\girilenIkıSayıyaDortIslemYapma\girilenIkıSayıyaDortIslemYapma\obj\Debug\girilenIkıSayıyaDortIslemYapma.exe
-E:\CS LANGUAGES\C#\MyC#Codes\girilenIkıSayıyaDortIslemYapma\girilenIkıSayıyaDortIslemYapma\obj\Debug\girilenIkıSayıyaDortIslemYapma.pdb

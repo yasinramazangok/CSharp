@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\doWhileLoopXYArasindakiCiftSayilariBulanProgram\bin\Debug\doWhileLoopXYArasindakiCiftSayilariBulanProgram.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\doWhileLoopXYArasindakiCiftSayilariBulanProgram\bin\Debug\doWhileLoopXYArasindakiCiftSayilariBulanProgram.exe
-E:\CS LANGUAGES\C#\MyC#Codes\doWhileLoopXYArasindakiCiftSayilariBulanProgram\bin\Debug\doWhileLoopXYArasindakiCiftSayilariBulanProgram.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\doWhileLoopXYArasindakiCiftSayilariBulanProgram\obj\Debug\doWhileLoopXYArasindakiCiftSayilariBulanProgram.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\doWhileLoopXYArasindakiCiftSayilariBulanProgram\obj\Debug\doWhileLoopXYArasindakiCiftSayilariBulanProgram.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\doWhileLoopXYArasindakiCiftSayilariBulanProgram\obj\Debug\doWhileLoopXYArasindakiCiftSayilariBulanProgram.exe
-E:\CS LANGUAGES\C#\MyC#Codes\doWhileLoopXYArasindakiCiftSayilariBulanProgram\obj\Debug\doWhileLoopXYArasindakiCiftSayilariBulanProgram.pdb
