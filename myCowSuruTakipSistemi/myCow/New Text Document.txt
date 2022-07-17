@@ -1,2 +1,0 @@
-uygulama geliştirerek c# öğreninle başlanacak
-https://www.youtube.com/watch?v=srM2QvSOBrs oop lab videdosu
