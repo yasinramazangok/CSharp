@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoop\bin\Debug\whileLoop.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoop\bin\Debug\whileLoop.exe
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoop\bin\Debug\whileLoop.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoop\obj\Debug\whileLoop.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoop\obj\Debug\whileLoop.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoop\obj\Debug\whileLoop.exe
-E:\CS LANGUAGES\C#\MyC#Codes\whileLoop\obj\Debug\whileLoop.pdb
