@@ -1,7 +1,0 @@
-E:\CS LANGUAGES\C#\MyC#Codes\typeCasting\typeCasting\bin\Debug\typeCasting.exe.config
-E:\CS LANGUAGES\C#\MyC#Codes\typeCasting\typeCasting\bin\Debug\typeCasting.exe
-E:\CS LANGUAGES\C#\MyC#Codes\typeCasting\typeCasting\bin\Debug\typeCasting.pdb
-E:\CS LANGUAGES\C#\MyC#Codes\typeCasting\typeCasting\obj\Debug\typeCasting.csproj.AssemblyReference.cache
-E:\CS LANGUAGES\C#\MyC#Codes\typeCasting\typeCasting\obj\Debug\typeCasting.csproj.CoreCompileInputs.cache
-E:\CS LANGUAGES\C#\MyC#Codes\typeCasting\typeCasting\obj\Debug\typeCasting.exe
-E:\CS LANGUAGES\C#\MyC#Codes\typeCasting\typeCasting\obj\Debug\typeCasting.pdb
