@@ -42,8 +42,8 @@ namespace myCowSuruYonetimSistemi
                     SmtpClient smtp = new SmtpClient();
                     MailMessage mailMessage = new MailMessage();
                     string tarih = DateTime.Now.ToLongDateString();
-                    string mailAdres = ("yrg6830@gmail.com");
-                    string sifre =
+                    string mailAdres = ("");
+                    string sifre ="";
                 }
                 catch (Exception)
                 {

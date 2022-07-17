@@ -25,7 +25,7 @@ namespace myCowSuruYonetimSistemi
             frm2.Show();
             this.Hide();
         }
-        public static SqlConnection con = new SqlConnection("Data Source=YRG00;Initial Catalog=myCowSuruTakipSistemi;Integrated Security=True");
+        public static SqlConnection con = new SqlConnection("");
         SqlDataReader dr;
         SqlCommand com;
         private void button1_Click(object sender, EventArgs e)
