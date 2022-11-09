@@ -1,0 +1,8 @@
+D:\CSharp\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+D:\CSharp\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe
+D:\CSharp\CSharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+D:\CSharp\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+D:\CSharp\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpCourse\Interfaces\obj\Debug\Interfaces.exe
+D:\CSharp\CSharpCourse\Interfaces\obj\Debug\Interfaces.pdb
