@@ -1,0 +1,8 @@
+D:\CSharp\CSharpCourse\Collections\bin\Debug\Collections.exe.config
+D:\CSharp\CSharpCourse\Collections\bin\Debug\Collections.exe
+D:\CSharp\CSharpCourse\Collections\bin\Debug\Collections.pdb
+D:\CSharp\CSharpCourse\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+D:\CSharp\CSharpCourse\Collections\obj\Debug\Collections.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\CSharpCourse\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharpCourse\Collections\obj\Debug\Collections.exe
+D:\CSharp\CSharpCourse\Collections\obj\Debug\Collections.pdb
