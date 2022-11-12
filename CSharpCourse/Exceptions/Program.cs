@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Exceptions
 {
+    /*
+     * ACTION'LAR RETURN TYPE OLMAYAN İŞLEMLER İÇİN UYGUN İKEN FUNC İSE RETURN TYPE OLAN İŞLEMLER İÇİN UYGUNDUR.
+     * Yani func ile gönderdiğimiz metodu çalıştır ve bize bir değer döndür diyoruz.
+    */
     internal class Program
     {
         // Hata yakalama, hataları bulup kullanıcıya daha farklı bir bilgi verme amacı ile yönetilen bir yapıdır.
@@ -16,6 +20,45 @@ namespace Exceptions
         {
             // ExceptionIntro();
 
+            // TryCatch();
+
+            // ActionDemo();
+
+            // Func<int, int, int> add = Topla(3, 2); // Burada aslında add operasyonunu bir delegate gibi düşünürek delegate kullanır gibi kullanmalıyız.
+            Func<int, int, int> add = Topla;
+            var result = add(3, 8);
+            Console.WriteLine(Topla(2, 5));
+            Console.WriteLine(result);
+
+            Func<int> getRandomNumber = delegate ()
+            {
+                Random random = new Random();   
+                return random.Next(1,25);
+            };
+
+            Console.WriteLine(getRandomNumber());
+
+            Func<int> getRandomNumber2 = () => new Random().Next(25, 50);
+            
+            Console.WriteLine(getRandomNumber2());   
+            Console.ReadLine();
+        }
+
+        static int Topla(int x, int y)
+        {
+            return x + y;
+        }
+
+        private static void ActionDemo()
+        {
+            HandleException(() =>
+            {
+                Find();
+            }); // Bu action kulanımıdır ve try-catch bloğundan daha kullanışlı bir yapı sunar. Action aslında HandleException() metodunun içerisine yazılan kodlarn tamamıdır.
+        }
+
+        private static void TryCatch()
+        {
             try
             {
                 Find(); // Katmanlı mimarilerde Find() metodu back-end'de yazılırken; try-catch bloğu ise front-end'de yazılır.*****
@@ -25,13 +68,6 @@ namespace Exceptions
 
                 Console.WriteLine(exception.Message);
             }
-
-            HandleException(() =>
-            {
-                Find();
-            }); // Bu action kulanımıdır ve try-catch bloğundan daha kullanışlı bir yapı sunar. Action aslında HandleException() metodunun içerisine yazılan kodlarn tamamıdır.
-
-            Console.ReadLine();
         }
 
         private static void HandleException(Action action)
