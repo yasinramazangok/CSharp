@@ -1,0 +1,8 @@
+C:\Users\Yasin Ramazan GÖK\Desktop\CSharpBasicAlgorithms\Program7\bin\Debug\Program7.exe.config
+C:\Users\Yasin Ramazan GÖK\Desktop\CSharpBasicAlgorithms\Program7\bin\Debug\Program7.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\CSharpBasicAlgorithms\Program7\bin\Debug\Program7.pdb
+C:\Users\Yasin Ramazan GÖK\Desktop\CSharpBasicAlgorithms\Program7\obj\Debug\Program7.csproj.AssemblyReference.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\CSharpBasicAlgorithms\Program7\obj\Debug\Program7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\CSharpBasicAlgorithms\Program7\obj\Debug\Program7.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\CSharpBasicAlgorithms\Program7\obj\Debug\Program7.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\CSharpBasicAlgorithms\Program7\obj\Debug\Program7.pdb

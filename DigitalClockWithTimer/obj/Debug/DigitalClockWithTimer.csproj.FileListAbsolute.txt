@@ -1,0 +1,11 @@
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\DigitalClockWithTimer\bin\Debug\DigitalClockWithTimer.exe.config
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\DigitalClockWithTimer\bin\Debug\DigitalClockWithTimer.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\DigitalClockWithTimer\bin\Debug\DigitalClockWithTimer.pdb
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\DigitalClockWithTimer\obj\Debug\DigitalClockWithTimer.csproj.AssemblyReference.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\DigitalClockWithTimer\obj\Debug\DigitalClockWithTimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\DigitalClockWithTimer\obj\Debug\DigitalClockWithTimer.Form1.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\DigitalClockWithTimer\obj\Debug\DigitalClockWithTimer.Properties.Resources.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\DigitalClockWithTimer\obj\Debug\DigitalClockWithTimer.csproj.GenerateResource.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\DigitalClockWithTimer\obj\Debug\DigitalClockWithTimer.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\DigitalClockWithTimer\obj\Debug\DigitalClockWithTimer.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\DigitalClockWithTimer\obj\Debug\DigitalClockWithTimer.pdb

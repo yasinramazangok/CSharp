@@ -1,0 +1,11 @@
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\PoliceLightsWithTimer\bin\Debug\PoliceLightsWithTimer.exe.config
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\PoliceLightsWithTimer\bin\Debug\PoliceLightsWithTimer.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\PoliceLightsWithTimer\bin\Debug\PoliceLightsWithTimer.pdb
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\PoliceLightsWithTimer\obj\Debug\PoliceLightsWithTimer.csproj.AssemblyReference.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\PoliceLightsWithTimer\obj\Debug\PoliceLightsWithTimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\PoliceLightsWithTimer\obj\Debug\PoliceLightsWithTimer.Form1.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\PoliceLightsWithTimer\obj\Debug\PoliceLightsWithTimer.Properties.Resources.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\PoliceLightsWithTimer\obj\Debug\PoliceLightsWithTimer.csproj.GenerateResource.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\PoliceLightsWithTimer\obj\Debug\PoliceLightsWithTimer.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\PoliceLightsWithTimer\obj\Debug\PoliceLightsWithTimer.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\PoliceLightsWithTimer\obj\Debug\PoliceLightsWithTimer.pdb

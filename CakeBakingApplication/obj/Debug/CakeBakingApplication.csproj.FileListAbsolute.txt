@@ -1,0 +1,11 @@
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CakeBakingApplication\bin\Debug\CakeBakingApplication.exe.config
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CakeBakingApplication\bin\Debug\CakeBakingApplication.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CakeBakingApplication\bin\Debug\CakeBakingApplication.pdb
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CakeBakingApplication\obj\Debug\CakeBakingApplication.csproj.AssemblyReference.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CakeBakingApplication\obj\Debug\CakeBakingApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CakeBakingApplication\obj\Debug\CakeBakingApplication.Form1.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CakeBakingApplication\obj\Debug\CakeBakingApplication.Properties.Resources.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CakeBakingApplication\obj\Debug\CakeBakingApplication.csproj.GenerateResource.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CakeBakingApplication\obj\Debug\CakeBakingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CakeBakingApplication\obj\Debug\CakeBakingApplication.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CakeBakingApplication\obj\Debug\CakeBakingApplication.pdb

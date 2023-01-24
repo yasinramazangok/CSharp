@@ -1,0 +1,11 @@
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CaptchaApplication\bin\Debug\CaptchaApplication.exe.config
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CaptchaApplication\bin\Debug\CaptchaApplication.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CaptchaApplication\bin\Debug\CaptchaApplication.pdb
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CaptchaApplication\obj\Debug\CaptchaApplication.csproj.AssemblyReference.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CaptchaApplication\obj\Debug\CaptchaApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CaptchaApplication\obj\Debug\CaptchaApplication.Form1.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CaptchaApplication\obj\Debug\CaptchaApplication.Properties.Resources.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CaptchaApplication\obj\Debug\CaptchaApplication.csproj.GenerateResource.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CaptchaApplication\obj\Debug\CaptchaApplication.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CaptchaApplication\obj\Debug\CaptchaApplication.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\CaptchaApplication\obj\Debug\CaptchaApplication.pdb

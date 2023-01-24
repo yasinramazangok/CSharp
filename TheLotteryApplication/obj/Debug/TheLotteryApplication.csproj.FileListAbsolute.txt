@@ -1,0 +1,11 @@
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\TheLotteryApplication\bin\Debug\TheLotteryApplication.exe.config
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\TheLotteryApplication\bin\Debug\TheLotteryApplication.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\TheLotteryApplication\bin\Debug\TheLotteryApplication.pdb
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\TheLotteryApplication\obj\Debug\TheLotteryApplication.csproj.AssemblyReference.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\TheLotteryApplication\obj\Debug\TheLotteryApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\TheLotteryApplication\obj\Debug\TheLotteryApplication.Form1.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\TheLotteryApplication\obj\Debug\TheLotteryApplication.Properties.Resources.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\TheLotteryApplication\obj\Debug\TheLotteryApplication.csproj.GenerateResource.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\TheLotteryApplication\obj\Debug\TheLotteryApplication.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\TheLotteryApplication\obj\Debug\TheLotteryApplication.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\TheLotteryApplication\obj\Debug\TheLotteryApplication.pdb

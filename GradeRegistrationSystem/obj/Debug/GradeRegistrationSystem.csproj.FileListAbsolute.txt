@@ -1,0 +1,13 @@
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\bin\Debug\GradeRegistrationSystem.exe.config
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\bin\Debug\GradeRegistrationSystem.exe
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\bin\Debug\GradeRegistrationSystem.pdb
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\obj\Debug\GradeRegistrationSystem.csproj.AssemblyReference.cache
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\obj\Debug\GradeRegistrationSystem.csproj.SuggestedBindingRedirects.cache
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\obj\Debug\GradeRegistrationSystem.Properties.Resources.resources
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\obj\Debug\GradeRegistrationSystem.csproj.GenerateResource.cache
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\obj\Debug\GradeRegistrationSystem.csproj.CoreCompileInputs.cache
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\obj\Debug\GradeRegistrationSystem.exe
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\obj\Debug\GradeRegistrationSystem.pdb
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\obj\Debug\GradeRegistrationSystem.FrmUserLogin.resources
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\obj\Debug\GradeRegistrationSystem.FrmStudentDetails.resources
+D:\Projeler\GradeRegistrationSystem\GradeRegistrationSystem\obj\Debug\GradeRegistrationSystem.FrmTeacherDetails.resources

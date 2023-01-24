@@ -1,0 +1,11 @@
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\EnumStructureAndUse\bin\Debug\EnumStructureAndUse.exe.config
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\EnumStructureAndUse\bin\Debug\EnumStructureAndUse.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\EnumStructureAndUse\bin\Debug\EnumStructureAndUse.pdb
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\EnumStructureAndUse\obj\Debug\EnumStructureAndUse.csproj.AssemblyReference.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\EnumStructureAndUse\obj\Debug\EnumStructureAndUse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\EnumStructureAndUse\obj\Debug\EnumStructureAndUse.Form1.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\EnumStructureAndUse\obj\Debug\EnumStructureAndUse.Properties.Resources.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\EnumStructureAndUse\obj\Debug\EnumStructureAndUse.csproj.GenerateResource.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\EnumStructureAndUse\obj\Debug\EnumStructureAndUse.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\EnumStructureAndUse\obj\Debug\EnumStructureAndUse.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\EnumStructureAndUse\obj\Debug\EnumStructureAndUse.pdb

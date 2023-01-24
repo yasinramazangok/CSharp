@@ -1,0 +1,11 @@
+D:\firstCryptoAlgorithm\firstCryptoAlgorithm\rgbCryptoAlgorithm\bin\Debug\rgbCryptoAlgorithm.exe.config
+D:\firstCryptoAlgorithm\firstCryptoAlgorithm\rgbCryptoAlgorithm\bin\Debug\rgbCryptoAlgorithm.exe
+D:\firstCryptoAlgorithm\firstCryptoAlgorithm\rgbCryptoAlgorithm\bin\Debug\rgbCryptoAlgorithm.pdb
+D:\firstCryptoAlgorithm\firstCryptoAlgorithm\rgbCryptoAlgorithm\obj\Debug\rgbCryptoAlgorithm.csproj.AssemblyReference.cache
+D:\firstCryptoAlgorithm\firstCryptoAlgorithm\rgbCryptoAlgorithm\obj\Debug\rgbCryptoAlgorithm.csproj.SuggestedBindingRedirects.cache
+D:\firstCryptoAlgorithm\firstCryptoAlgorithm\rgbCryptoAlgorithm\obj\Debug\rgbCryptoAlgorithm.Form1.resources
+D:\firstCryptoAlgorithm\firstCryptoAlgorithm\rgbCryptoAlgorithm\obj\Debug\rgbCryptoAlgorithm.Properties.Resources.resources
+D:\firstCryptoAlgorithm\firstCryptoAlgorithm\rgbCryptoAlgorithm\obj\Debug\rgbCryptoAlgorithm.csproj.GenerateResource.cache
+D:\firstCryptoAlgorithm\firstCryptoAlgorithm\rgbCryptoAlgorithm\obj\Debug\rgbCryptoAlgorithm.csproj.CoreCompileInputs.cache
+D:\firstCryptoAlgorithm\firstCryptoAlgorithm\rgbCryptoAlgorithm\obj\Debug\rgbCryptoAlgorithm.exe
+D:\firstCryptoAlgorithm\firstCryptoAlgorithm\rgbCryptoAlgorithm\obj\Debug\rgbCryptoAlgorithm.pdb

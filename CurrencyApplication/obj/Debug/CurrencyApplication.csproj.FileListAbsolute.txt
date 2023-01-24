@@ -1,0 +1,11 @@
+C:\Users\Yasin Ramazan GÖK\Desktop\CurrencyApplication\CurrencyApplication\bin\Debug\CurrencyApplication.exe.config
+C:\Users\Yasin Ramazan GÖK\Desktop\CurrencyApplication\CurrencyApplication\bin\Debug\CurrencyApplication.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\CurrencyApplication\CurrencyApplication\bin\Debug\CurrencyApplication.pdb
+C:\Users\Yasin Ramazan GÖK\Desktop\CurrencyApplication\CurrencyApplication\obj\Debug\CurrencyApplication.csproj.AssemblyReference.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\CurrencyApplication\CurrencyApplication\obj\Debug\CurrencyApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\CurrencyApplication\CurrencyApplication\obj\Debug\CurrencyApplication.Form1.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\CurrencyApplication\CurrencyApplication\obj\Debug\CurrencyApplication.Properties.Resources.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\CurrencyApplication\CurrencyApplication\obj\Debug\CurrencyApplication.csproj.GenerateResource.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\CurrencyApplication\CurrencyApplication\obj\Debug\CurrencyApplication.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\CurrencyApplication\CurrencyApplication\obj\Debug\CurrencyApplication.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\CurrencyApplication\CurrencyApplication\obj\Debug\CurrencyApplication.pdb

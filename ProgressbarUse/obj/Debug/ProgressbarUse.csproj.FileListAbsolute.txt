@@ -1,0 +1,11 @@
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\ProgressbarUse\bin\Debug\ProgressbarUse.exe.config
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\ProgressbarUse\bin\Debug\ProgressbarUse.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\ProgressbarUse\bin\Debug\ProgressbarUse.pdb
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\ProgressbarUse\obj\Debug\ProgressbarUse.csproj.AssemblyReference.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\ProgressbarUse\obj\Debug\ProgressbarUse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\ProgressbarUse\obj\Debug\ProgressbarUse.Form1.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\ProgressbarUse\obj\Debug\ProgressbarUse.Properties.Resources.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\ProgressbarUse\obj\Debug\ProgressbarUse.csproj.GenerateResource.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\ProgressbarUse\obj\Debug\ProgressbarUse.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\ProgressbarUse\obj\Debug\ProgressbarUse.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\UdemyCSharpCourseWorks\ProgressbarUse\obj\Debug\ProgressbarUse.pdb

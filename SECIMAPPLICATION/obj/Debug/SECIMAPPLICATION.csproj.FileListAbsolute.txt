@@ -1,0 +1,12 @@
+C:\Users\Yasin Ramazan GÖK\Desktop\SECIMAPPLICATION\bin\Debug\SECIMAPPLICATION.exe.config
+C:\Users\Yasin Ramazan GÖK\Desktop\SECIMAPPLICATION\bin\Debug\SECIMAPPLICATION.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\SECIMAPPLICATION\bin\Debug\SECIMAPPLICATION.pdb
+C:\Users\Yasin Ramazan GÖK\Desktop\SECIMAPPLICATION\obj\Debug\SECIMAPPLICATION.csproj.AssemblyReference.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\SECIMAPPLICATION\obj\Debug\SECIMAPPLICATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\SECIMAPPLICATION\obj\Debug\SECIMAPPLICATION.frmSecimApplication.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\SECIMAPPLICATION\obj\Debug\SECIMAPPLICATION.frmGrafikler.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\SECIMAPPLICATION\obj\Debug\SECIMAPPLICATION.Properties.Resources.resources
+C:\Users\Yasin Ramazan GÖK\Desktop\SECIMAPPLICATION\obj\Debug\SECIMAPPLICATION.csproj.GenerateResource.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\SECIMAPPLICATION\obj\Debug\SECIMAPPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Ramazan GÖK\Desktop\SECIMAPPLICATION\obj\Debug\SECIMAPPLICATION.exe
+C:\Users\Yasin Ramazan GÖK\Desktop\SECIMAPPLICATION\obj\Debug\SECIMAPPLICATION.pdb
